@@ -73,7 +73,7 @@
 
 ## Criar uma stream
 
-- **Basta chamar o método `stream()` ou `parallelStream()` a partir de qualquer objeto `Collection`.**
+- **Basta chamar o método `stream()` ou `parallelStream()` a partir de qualquer objeto `Collection`.**  
   <https://docs.oracle.com/javase/10/docs/api/java/util/Collection.html>
   
 - **Outras formas de se criar uma stream incluem:**  
